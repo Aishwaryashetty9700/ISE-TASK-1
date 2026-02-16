@@ -1,2 +1,4 @@
 # ISE-TASK-1
-healthcare management system
+This case study examined MediFlow, a large healthcare management system, and compared three software development models: Waterfall, Incremental, and Spiral.
+The study found that the Waterfall model is not flexible enough for healthcare environments, where changes in rules, technology, and user needs happen often. The Incremental model is more suitable because it allows the system to be developed and delivered in smaller parts, making it easier to collect feedback and improve the system over time. The Spiral model is especially helpful for high-risk and safety-critical parts, as it focuses on risk analysis and careful testing.
+In conclusion, the study suggests that using a combination of Incremental and Spiral models is the most effective way to develop a safe, flexible, and reliable healthcare system like MediFlow.
